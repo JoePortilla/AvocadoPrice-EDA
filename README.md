@@ -1,6 +1,6 @@
 # Análisis Exploratorio de Datos del Precio del Aguacate 2015-2020
 
-<img src="https://raw.githubusercontent.com/JoePortilla/AvocadoPrice-EDA/main/img/Avocado_eda_cover.jpg" width="800" alt="logo" style="display:block;margin:auto;">
+<img src="https://raw.githubusercontent.com/JoePortilla/AvocadoPrice-EDA/main/img/avocado_eda_cover.webp" width="800" alt="logo" style="display:block;margin:auto;">
 
 - El dataset de precios de aguacate contiene información sobre el precio promedio de los aguacates en diferentes regiones de los Estados Unidos, recopilados desde el año 2015 hasta el año 2020.
 - Incluye información detallada sobre la cantidad de aguacates vendidos en diferentes tamaños y tipos (convencionales y orgánicos), así como información sobre la cantidad de bolsas vendidas.
